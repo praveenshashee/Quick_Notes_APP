@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quick Notes</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="notes_text">My Notes</string>
+    <string name="title_view_text">Title</string>
+    <string name="content_view_text">Content</string>
+    <string name="edit_note">EDIT NOTE</string>
+    <string name="enter_title_text">Enter Title here</string>
+    <string name="enter_desc_text">Enter the Description</string>
+</resources>
