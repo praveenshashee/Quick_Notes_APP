@@ -28,7 +28,10 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="12dp"
         android:layout_alignTop="@+id/edit_note_heading"
-        android:layout_marginEnd="6dp"/>
+        android:layout_marginEnd="6dp"
+        android:background="@drawable/button_background"
+        android:elevation="8dp"
+        android:padding="8dp"/>
 
     <EditText
         android:id="@+id/Update_title_edit_text"
