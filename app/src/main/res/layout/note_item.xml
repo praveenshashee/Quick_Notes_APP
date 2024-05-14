@@ -53,7 +53,8 @@
             android:layout_height="wrap_content"
             android:text="@string/content_view_text"
             android:fontFamily="@font/poppins"
-            android:textColor="@color/wine_red"
+            android:textStyle="bold"
+            android:textColor="@color/black"
             android:maxLines="3"
             android:layout_marginTop="4dp"/>
 

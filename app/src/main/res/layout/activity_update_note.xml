@@ -52,6 +52,7 @@
         android:gravity="top"
         android:padding="12dp"
         android:textSize="18sp"
+        android:textColor="@color/black"
         android:fontFamily="@font/poppins"
         android:background="@drawable/wine_red_border"
         android:layout_below="@id/Update_title_edit_text"

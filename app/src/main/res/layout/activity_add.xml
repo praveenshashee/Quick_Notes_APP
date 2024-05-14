@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -53,6 +54,7 @@
         android:gravity="top"
         android:padding="12dp"
         android:textSize="20sp"
+        android:textColor="@color/black"
         android:fontFamily="@font/poppins"
         android:background="@drawable/wine_red_border"
         android:layout_below="@id/title_edit_text"
